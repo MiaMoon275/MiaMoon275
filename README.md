@@ -12,22 +12,23 @@ I work primarily with Python and Django, turning repetitive processes into pract
 
 ## Selected work
 
-### [Membership Management Platform](https://mia-sophie.dev/project-membership-management.html)
+### [Membership Management Platform - Django](https://mia-sophie.dev/project-membership-management.html)
 
 A Django-based platform for a Berlin swimming club, bringing together membership applications, payments, documents, and automated workflows. The case study covers the full-stack implementation, REST APIs, and on-premises delivery.
 
+### [Embroidery Pattern Organiser - Django](https://mia-sophie.dev/project-embroidery.html)
+
+A visual workspace for managing embroidery patterns, editing colors, and connecting designs to a machine through USB mass storage emulation.
+
+### [Photo Capture and DB-Sync - C#/.NET](https://mia-sophie.dev/project-photo-capture.html)
+
+A standalone C# application that connected member photos to records, supported capture beyond Wi-Fi range, and kept a high-volume production run moving under a fixed deadline.
+
 ## Public Repositories
+
 ### [Developer Portfolio](https://github.com/MiaMoon275/portfolio-website)
 
 My responsive portfolio, built with HTML, CSS, SCSS, and Bootstrap. It includes more case studies on custom software, automation, and interface design. You can visit my portfolio at [mia-sophie.dev](https://mia-sophie.dev)
-
-### [Commerce](https://github.com/MiaMoon275/commerce)
-
-A Django auction platform with listings, bidding, watchlists, comments, and authentication. Built as a learning project for CS50's Web Programming with Python and JavaScript.
-
-### [Stellar-Experiment](https://github.com/MiaMoon275/stellar-agentic-experiment)
-
-A self-imposed tech experiment to improve my approach to agentic coding, while simultaneously exploring game development with Panda3D.
 
 ## Tools & technologies
 
