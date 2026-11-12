@@ -33,8 +33,8 @@ My responsive portfolio, built with HTML, CSS, SCSS, and Bootstrap. It includes 
 ## Tools & technologies
 
 **Backend:** Python · Django · Django REST Framework · SQL  
-**Frontend:** HTML · CSS · SCSS · Bootstrap · JavaScript  
-**Workflow:** Git · REST APIs · CI/CD · automated testing
+**Frontend:** HTML · CSS · Bootstrap · JavaScript  
+**Workflow:** Git · REST APIs · Ruff · CI/CD
 
 ## More about my work
 
